@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <div>
-        <Header home="Home" BookList="Book List" addBook="Add Book" />
+        <Header />
         <BookList />
 
       </div>

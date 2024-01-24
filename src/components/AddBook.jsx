@@ -63,8 +63,9 @@ const AddBook = () => {
 
 
     return (
+
         <div className='bg-blue-100 w-96 p-8 rounded-md shadow-md mx-auto mt-10'>
-            {showNotification && <Notification />}
+
             <form action="" onSubmit={handleBook}
 
             >
